@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-full-stack-software-developer&langs_count=8)](https://github.com/hasan-full-stack-software-developer/github-readme-stats)
 
-[![Visits Badge](https://badges.pufler.dev/visits/hasan-full-stack-software-developer/hasan-full-stack-software-developer)](https://github.com/hasan-full-stack-software-developer)
+[![Visits Badge](https://badges.pufler.dev/visits/hasan-full-stack-software-developer)](https://github.com/hasan-full-stack-software-developer)
 
 <!--
 **hasan-full-stack-software-developer/hasan-full-stack-software-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
