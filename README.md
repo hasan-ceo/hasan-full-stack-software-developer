@@ -1,7 +1,7 @@
 ### Hi there 👋
 Software Lead with over 17+ years of local and international experience specializing in IT project management, implementing complex technology applications for financial institute to digitalize the business process, manage IT infrastructure.
 
-[![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-full-stack-software-developer&show_icons=true&theme=radical)](https://github.com/hasan-full-stack-software-developer/hasan-full-stack-software-developer)
+[![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-full-stack-software-developer&show_icons=true)](https://github.com/hasan-full-stack-software-developer/hasan-full-stack-software-developer)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-full-stack-software-developer&layout=compact)](https://github.com/hasan-full-stack-software-developer/hasan-full-stack-software-developer)
 
