@@ -4,7 +4,7 @@ Software Lead with over 17+ years of local and international experience speciali
 ## How to reach me:
 - Facebook: https://www.facebook.com/DevOpsHasan
 - Blog: https://medium.com/@DevOpsHasan
-- Twitter: https://twitter.com/devopshasan
+- Twitter: https://twitter.com/DevOpsHasan
 - GitHub: https://github.com/hasan-full-stack-software-developer
 - LinkedIn: https://www.linkedin.com/in/hasan-full-stack-software-developer
 - Youtube : https://www.youtube.com/c/DevOpsHasan
